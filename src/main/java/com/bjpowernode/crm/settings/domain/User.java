@@ -12,6 +12,7 @@ public class User {
 
     private String age;
 
+    private String address;
 
 
 }
